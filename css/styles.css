@@ -37,7 +37,10 @@
   margin-right: auto;
 }
 
-.whatwedo img {
- 7  text-align: center;
 
-}yo
+.portfolio {
+  display: grid;
+  width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
