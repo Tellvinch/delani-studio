@@ -1,0 +1,31 @@
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro {
+  text-align: center;
+  background-image: ;
+  background-color: black;
+  color: white;
+}
+
+.about {
+  text-align: center;
+  width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.services {
+  background-image: url("img/s.jpg");
+  text-align: center;
+  width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  color: white;
+}
+
