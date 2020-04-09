@@ -2,6 +2,7 @@
   width: 1200px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .intro {
@@ -39,8 +40,16 @@
 
 
 .portfolio {
-  display: grid;
-  width: 1050px;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
+  padding-right: 180px;
+  max-width: 750px;
+  
+}
+
+.portfolio h4 {
+  padding-left: 2000px;
+}
+
+.row{
+  scroll-padding-right:50px;
 }
