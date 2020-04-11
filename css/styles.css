@@ -35,13 +35,26 @@
 .portfolio {
   display: grid;
   text-align: center;
-  margin-left: 200px;
+  margin-right: 150px;
+
 } 
 
 .contact{
+  background-image: url("../img/c.jpg");
+  background-size: cover;
   text-align: center;
+  height: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: white;
 
 }
+
+.col-md-12{
+  margin-left: 200px;
+  
+}
+
 
 .last{
   display: inline;
