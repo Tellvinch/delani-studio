@@ -1,5 +1,11 @@
+html{
+  width:max-content;
+  margin-left:100px;
+}
+
 .container {
   text-align: center;
+  
 }
 
 .intro {
@@ -32,12 +38,31 @@
   margin-right: auto;
 }
 
+.design{
+  display: none;
+}
+
+.development{
+  display: none;
+}
+
+.product{
+  display: none;
+}
+
 .portfolio {
   display: grid;
   text-align: center;
-  margin-right: 150px;
+  
 
 } 
+
+.pic {
+       width: 100%;
+       padding-right: 2px; 
+       
+
+}
 
 .contact{
   background-image: url("../img/c.jpg");
@@ -47,6 +72,7 @@
   margin-left: 100px;
   margin-right: 100px;
   color: white;
+  
 
 }
 
@@ -59,5 +85,5 @@
 .last{
   display: inline;
   text-align: center;
-  margin-left: 425px;
+  margin-left: 320px;
 }
