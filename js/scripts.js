@@ -29,6 +29,11 @@ $(document).ready(function() {
         $("#product").toggle();
 
     })
+    $(".pic").hover(function(){
+        $(".text4", this).toggle();
+    },function(){
+        $(".text4", this).toggle();
+    }
 
 
     

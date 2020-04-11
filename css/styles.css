@@ -58,6 +58,13 @@ html{
 } 
 
 .pic {
+  opacity: 0.3;}
+
+.pic:hover .text4 {
+  opacity: 1;
+}
+
+.pic {
        width: 100%;
        padding-right: 2px; 
        
