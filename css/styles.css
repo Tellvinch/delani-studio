@@ -96,13 +96,11 @@ html{
 }
 
 
-
-
 .contact{
   background-image: url("../img/c.jpg");
   background-size: cover;
   text-align: center;
-  height: 400px;
+  height: 400px; 
   margin-left: 100px;
   margin-right: 100px;
   color: white;
