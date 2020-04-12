@@ -16,4 +16,4 @@ The project uses HTML,CSS JAVASCRIPT and JQuery.
 For any more information contact me at tellvinchimani@gmail.com
 ### License
  <a href="Licence.md">MIT LICENSE</a>
-Copyright (c) {2020} **{Delani studio}**
+Copyright (c) 2020 **Delani studio**
