@@ -55,12 +55,21 @@ html{
   text-align: center;
 } 
 
-/* .center{ */
+
+.pic:hover .image {
+  opacity: 0.3;
+}
+
+.pic:hover .center {
+  opacity: 1;
+
+}
+.center{
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 25%;
+  left: 25%;
   transform: translate(-50%,-50%);
   -ms-transform: translate(-50%,-50%);
   text-align: center;
@@ -79,9 +88,14 @@ html{
 .text4 {
   color:black;
   border: black;
+  border-style: solid;
   font-size: 25px;
   padding: 16px 32px;
+  height:100px;
+  position:absolute;
 }
+
+
 
 
 .contact{
