@@ -42,7 +42,7 @@ $(document).ready(function() {
         var email=$("input#email").val();
         var message=$("input#message").val()
         if($("input#name").val() && $("input#email").val()){
-            alert("Awesome "+  name +" we have gotten your message thanks for the feedback.");
+            alert("Awesome! "+  name +" we have gotten your message thanks for the feedback.");
         }
         
 
