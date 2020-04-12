@@ -4,7 +4,7 @@
 ## Description
 This is an application for Delani studio.It contains all about delani studios including our services and description.Has examples of projects that we have done.Its also  a good example of the great work e do at delani studio.
 ## Setup/Installation Requirements
-* Click  on this [link]() to open the application.
+* Click  on this [link](https://tellvinch.github.io/delani-studio/) to open the application.
 * Scroll down to read more.
 * Give your feedback.
 
